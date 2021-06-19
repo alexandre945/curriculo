@@ -1,0 +1,51 @@
+nav ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+     position: fixed;
+     background-color: rgba(255, 255, 255, 0.445);
+     height: 2rem;
+     width: 100%;
+}
+html {
+    scroll-behavior: smooth;
+}
+* { margin: 0;}
+section {
+    min-height: 100vh;
+    font-size: 20px;
+    padding-top: 3rem;
+    
+}
+button {
+    background-color:darkslategrey ;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+#comunica {
+    background-color: dimgray;
+}
+#responsa {
+    background-color: dodgerblue;
+}
+#equipe {
+    background-color: gray;
+}
+#adapt {
+    background-color: rgb(36, 49, 49);
+}
+#criativo {
+    background-color: rgb(122, 255, 155);
+}
+#persev {
+    background-color: rgb(248, 169, 51);
+}
+#critica {
+    background-color: rgb(27, 59, 240);
+}
+#tempo {
+    background-color: rgb(7, 77, 82);
+}

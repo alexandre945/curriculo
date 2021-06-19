@@ -1,0 +1,64 @@
+
+section {
+    min-height: 100vh;
+    font-size: 20px;
+    padding-top: 3rem;
+    
+}
+button {
+    background-color:darkslategrey ;
+}
+a {
+    text-decoration: none;
+    color: black;
+    
+}
+#node {
+    background-color: darkslategrey;
+}
+#html {
+    background-color: dimgray;
+}
+#css {
+    background-color: dodgerblue;
+}
+#script {
+    background-color: gray;
+}
+#vue {
+    background-color: rgb(36, 49, 49);
+}
+#sql {
+    background-color: rgb(122, 255, 155);
+}
+#sqlit {
+    background-color: rgb(248, 169, 51);
+}
+#type {
+    background-color: rgb(27, 59, 240);
+}
+#orm {
+    background-color: rgb(7, 77, 82);
+}
+#git {
+    background-color: sienna;
+
+}
+ 
+#hub{
+    background-color: teal;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+     position: fixed;
+     background-color: rgba(255, 255, 255, 0.445);
+     height: 2rem;
+     width: 100%;
+}
+html {
+    scroll-behavior: smooth;
+}
+* { margin: 0;}

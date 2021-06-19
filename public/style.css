@@ -1,0 +1,17 @@
+
+h1 {
+    text-align: center;
+    border: solid 1px black;
+}
+#name {
+    list-style-type: none;
+    margin-left: 280px;
+}
+li {
+   border: solid 1px black;
+   width: 800px;
+}
+
+
+
+
