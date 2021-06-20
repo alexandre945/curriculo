@@ -33,6 +33,6 @@ app.get("/soft",(request,response) => {
     return response.render("../views/soft")
 });
 
-app.listen(8080, ()=> {
+app.listen(process.env. PORT || 8080, ()=> {
     console.log("servidor rodando na url localhost:8080")
 });
